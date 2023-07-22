@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// #include "functions.h"
+#include "functions.h"
 
 void print_hello()
 {
